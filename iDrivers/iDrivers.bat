@@ -54,13 +54,23 @@ if errorlevel 1 (
 )
 
 echo.
-echo 🎉 VICTORY! 🎉
-echo The installer has finished doing its dark magic. 🧙‍♂️
+echo ============================================
+echo            🎉  VICTORY!  🎉
+echo ============================================
 echo.
-echo 📱 Next steps:
-echo 1. Plug in your iPhone.
-echo 2. Turn on Personal Hotspot.
-echo 3. Connect to the tethered internet connection. 🌐
+echo  The installer has finished doing its dark magic. 🧙‍♂️✨
+echo.
+echo  📱 Next steps:
+echo  1. Plug in your iPhone via USB.
+echo  2. Turn on cellular data and Personal Hotspot.
+echo  3. Choose USB when the pop-up appears.
+echo  4. Enjoy your tethered internet! 🌐
+echo.
+echo  🤔 Something went wrong? Or just feeling lost?
+echo  👉 Check out the README.md — it has the full
+echo     walkthrough, tips, and troubleshooting.
+echo.
+echo  Happy tethering! ⚡🐱
 echo.
 
 pause
