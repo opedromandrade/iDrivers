@@ -39,16 +39,21 @@ Super simple — here's the whole ritual:
 2. 🛡️ Run `idriver.bat` **with elevated administrator permissions**
    *(right-click → "Run as administrator" — trust me, it matters)*
 3. 🔄 Restart, and hopefully you'll get as lucky as I did 😊
+4. 🔌 **Plug your iPhone into your machine via USB** — then, in your iPhone
+   settings (yes, again — this is important! 📱):
+   - 📶 Turn **ON** cellular data
+   - 📡 Turn **ON** your Personal Hotspot
+   - 💬 When the pop-up appears asking how to connect, choose **USB**
 
 ---
 
 ### ⚙️ Before You Run It — Important!
 
-On your iPhone Settings 📱, make sure to **disable**:
+On your iPhone 📱, make sure to **disable**:
 
 - 📶 Wi-Fi
 - 🔵 Bluetooth
-- 📡 Personal Hotspot
+- 📡 Data and Personal Hotspot
 
 > ⚠️ **NOTE:** Do **NOT** use the Command Center / Control Center for this! 🙅
 > It won't work — toggles need to be flipped inside **Settings**.
