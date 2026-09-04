@@ -30,3 +30,25 @@ That's when I thought: *why not automate this?* 💡
 
 > **ℹ️ Note:** The Apple driver `.msi` file was extracted from the Windows
 > iTunes installer **12.10.11**.
+
+## 🚀 Getting Started
+
+Super simple — here's the whole ritual:
+
+1. 📥 **Download the folder**
+2. 🛡️ Run `idriver.bat` **with elevated administrator permissions**
+   *(right-click → "Run as administrator" — trust me, it matters)*
+3. 🔄 Restart, and hopefully you'll get as lucky as I did 😊
+
+---
+
+### ⚙️ Before You Run It — Important!
+
+On your iPhone Settings 📱, make sure to **disable**:
+
+- 📶 Wi-Fi
+- 🔵 Bluetooth
+- 📡 Personal Hotspot
+
+> ⚠️ **NOTE:** Do **NOT** use the Command Center / Control Center for this! 🙅
+> It won't work — toggles need to be flipped inside **Settings**.
